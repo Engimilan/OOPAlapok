@@ -8,17 +8,26 @@ namespace OOAlapok
 {
     public class Szemely
     {
-        public string _nev = "Nagy Ilona";
-        public int _kor = 35;
+        private string _nev;
+        private int _kor;
+
+        public Szemely(string nev, int kor) 
+        {
+            _nev = nev;
+            _kor = kor;
+        }
+        public string Kiir()
+        { 
+            return _nev+_kor;
+        }
     }
+
     internal class Program
     {
         static void Main(string[] args)
         {
-            Szemely tanulo1 = new Szemely();
-            Console.WriteLine(tanulo1._nev);
-            Console.WriteLine(tanulo1._kor);
-
+            Szemely tanulo1 = new Szemely("Kiss Ilona", 44);
+            Console.WriteLine(tanulo1.Kiir());
         }
     }
 }
