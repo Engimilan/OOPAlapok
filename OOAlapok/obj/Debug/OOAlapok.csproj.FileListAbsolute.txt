@@ -1,0 +1,8 @@
+U:\12\teszteles\ooalap\OOAlapok\OOAlapok\bin\Debug\OOAlapok.exe.config
+U:\12\teszteles\ooalap\OOAlapok\OOAlapok\bin\Debug\OOAlapok.exe
+U:\12\teszteles\ooalap\OOAlapok\OOAlapok\bin\Debug\OOAlapok.pdb
+U:\12\teszteles\ooalap\OOAlapok\OOAlapok\obj\Debug\OOAlapok.csproj.AssemblyReference.cache
+U:\12\teszteles\ooalap\OOAlapok\OOAlapok\obj\Debug\OOAlapok.csproj.CoreCompileInputs.cache
+U:\12\teszteles\ooalap\OOAlapok\OOAlapok\obj\Debug\OOAlapok.exe
+U:\12\teszteles\ooalap\OOAlapok\OOAlapok\obj\Debug\OOAlapok.pdb
+U:\12\teszteles\ooalap\OOAlapok\OOAlapok\obj\Debug\OOAlapok.exe.config
